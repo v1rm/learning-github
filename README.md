@@ -14,6 +14,7 @@ The subject will learn to navigate both with github and git and the use of react
 
 ## Contributors
 
+- Kyle Millendez
 - Terrence Calzada
 
 ## React props
