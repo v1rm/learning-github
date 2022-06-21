@@ -8,9 +8,12 @@ The subject will learn to navigate both with github and git and the use of react
     - Clone
     - Repeat
         - Edit
-        - Add changes
-        - Commit changes
-        - Upload Changes
+        - Add changes "git add ."
+        - Commit changes "git commit -m "comment here""
+        - Upload Changes "git push origin branch-name"
+
+        - Fetch main repository
+        - Download all changes "git pull origin main"
 
 ## Contributors
 
